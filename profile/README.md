@@ -1,7 +1,7 @@
 Support SFCC DevOps
 ===
 
-If you or your company enjoy using my projects, please consider supporting my work and joining my discord. 💖
+If you or your company enjoy using our projects, please consider supporting our work and joining our discord. 💖
 
 [![Become a GitHub Sponsor](https://img.shields.io/badge/Sponsor-171515.svg?logo=github&logoColor=white&style=for-the-badge "Become a GitHub Sponsor")](https://github.com/sponsors/sfccdevops)
 [![Become a Patreon Sponsor](https://img.shields.io/badge/Sponsor-FF424D.svg?logo=patreon&logoColor=white&style=for-the-badge "Become a Patreon Sponsor")](https://patreon.com/peter_schmalfeldt)
